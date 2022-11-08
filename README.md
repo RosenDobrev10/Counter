@@ -1,5 +1,5 @@
 # Counter
-Simple counter starting from 0 to -Infinity or +Infinity
+Simple counter starting from 0 to -Infinity♾ or +Infinity♾
 
 Click here for a quick test -> https://Counter.rosendobrev10.repl.co
 
